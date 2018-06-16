@@ -1,10 +1,8 @@
 def my_hash
-  school_supplies = {"highlighter" => "yellow", "whiteout" => "EZCorrect"}
+  {"highlighter" => "yellow", "whiteout" => "EZCorrect"}
 end
+
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
-
-
-
 
 def shipping_manifest
   # set a variable called `the_manifest`, equal to a hash
